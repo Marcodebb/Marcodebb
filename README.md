@@ -33,3 +33,9 @@
 2017 - 2019 <br></p>
 <p align="left">Bachelor of Science Computer Science | New Era University <br>
 2019 - Present <br><br></p>
+
+
+<h1 align="left">Certifications</h1>
+<p align ="left"><a href="https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC4786547&trackId=OCI23AIFCA&key=b57d3013286d6e73a65328be20911714cec7ec5f" ><br> Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate</a> <br>Oracle University <br>
+                  November 10, 2023 </center></p>
+
